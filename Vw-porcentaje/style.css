@@ -1,0 +1,20 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+.viewport{
+    width: 80vw;
+}
+
+.porcentaje{
+    width: 80%;
+}
+
+/* .contenedor-1{
+    width: 800px;
+}
+
+.contenedor-2{
+    width: 800px;
+}  */
